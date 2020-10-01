@@ -32,3 +32,10 @@ $ pipenv run python manage.py test
 $ pipenv run python manage.py runserver
 ```
 
+### For making migrations
+
+```bash
+$ pipenv run python manage.py makemigratoins
+$ pipenv run python manage.py migrate
+```
+
